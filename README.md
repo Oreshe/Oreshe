@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! I'm Aryna 👋
 
-<!--
-**Oreshe/Oreshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Education
+- **University**: 2nd-year Computer Science student at **KNEU** (Kyiv National Economic University).
+- **Major**: 122 Computer Science.
+- **Current Focus**: Database Design (working on a Game Recommendation System project).
 
-Here are some ideas to get you started:
+### 🛠️ Technical Skills & Experience
+- **Languages**: Proficient in **C++**; currently learning **SQL**.
+- **Robotics Background**:
+  - Successfully completed the **MiddleRobo** course at **ROBOCODE**.
+  - Developed game logic for **Tetris** and **Racing** games from scratch for microcontrollers.
+  - Experience with **LED matrices** and hardware-software interaction.
+- **Tools**: Visual Studio 2022, Arduino IDE, OLLYDBG.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Project
+- **[Rain_kursova](https://github.com/Oreshe/Rain_kursova)**: A Windows desktop interactive visualization using **WinAPI** and **GDI**. Features include 60 FPS animation, transparent window handling, and custom memory management.
+
