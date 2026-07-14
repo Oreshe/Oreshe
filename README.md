@@ -1,18 +1,43 @@
-# Hi there! I'm Aryna 👋
+# Привіт, я Арина! 👋
 
-### 🎓 Education
-- **University**: 2nd-year Computer Science student at **KNEU** (Kyiv National Economic University).
-- **Major**: 122 Computer Science.
-- **Current Focus**: Database Design (working on a Game Recommendation System project).
+Я студентка 3-го курсу університету, яка навчається та розвивається в технічній сфері на перетині **програмної інженерії, баз даних та робототехніки**. 
 
-### 🛠️ Technical Skills & Experience
-- **Languages**: Proficient in **C++**; currently learning **SQL**.
-- **Robotics Background**:
-  - Successfully completed the **MiddleRobo** course at **ROBOCODE**.
-  - Developed game logic for **Tetris** and **Racing** games from scratch for microcontrollers.
-  - Experience with **LED matrices** and hardware-software interaction.
-- **Tools**: Visual Studio 2022, Arduino IDE, OLLYDBG.
+Мені подобається створювати оптимізовані системні рішення, працювати з низькорівневим кодом (C++ / Embedded) та автоматизувати повсякденні завдання за допомогою Python. Завжди прагну розібратися, як технології працюють "під капотом".
 
-### 📂 Featured Project
-- **[Rain_kursova](https://github.com/Oreshe/Rain_kursova)**: A Windows desktop interactive visualization using **WinAPI** and **GDI**. Features include 60 FPS animation, transparent window handling, and custom memory management.
+---
 
+## 🛠️ Мій технологічний стек
+
+* **Мови програмування:** C++, Python, T-SQL (MS SQL Server)
+* **Бази даних:** Проектування реляційних моделей (ERD), розробка тригерів, представлень та складних аналітичних запитів у MS SQL Server (SSMS)
+* **Технології та API:** Win32 API, GDI Graphics, Telegram Bot API, BeautifulSoup4 (парсинг та веб-скрейпінг)
+* **Інструменти та середовища:** Git, GitHub, VS Code, Visual Studio, OllyDbg (низькорівневе налагодження)
+
+---
+
+## 📁 Мої проекти
+
+### 🏢 [Telegram-парсер нерухомості (OLX)](https://github.com/Oreshe/olx-parser)
+*Автоматизована система моніторингу оголошень про оренду житла. Python-скрипт у реальному часі сканує OLX за заданими фільтрами, зберігає унікальні ID оголошень у базу даних MS SQL Server для уникнення дублікатів та надсилає красиво відформатовані сповіщення з прямими посиланнями у Telegram-чат.*
+* **Стек:** Python, BeautifulSoup4, `pyodbc`, MS SQL Server, python-dotenv, Telegram API.
+
+### 🌧️ [Interactive 2D Rain Simulation (C++ / WinAPI)](https://github.com/Oreshe/Rain_kursova)
+*Легковажна графічна симуляція динамічного дощу, написана на чистому Windows API без сторонніх ігрових рушіїв. Реалізовано подвійну буферизацію для ідеально плавної анімації на 60 FPS без мерехтіння екрана, власну фізику руху крапель та обробку подій користувача.*
+* **Стек:** C++17, Win32 API, GDI Graphics, OllyDbg.
+
+### 🎮 [Game Analytics & Recommendation DB](https://github.com/Oreshe/game-recommendation-db)
+*Реляційна база даних для ігрової індустрії з автоматизованими T-SQL тригерами реального часу, які автоматично перераховують рейтинги ігор при додаванні чи зміні відгуків, та оптимізованими аналітичними запитами.*
+* **Стек:** T-SQL, MS SQL Server, SSMS.
+
+### ⏱️ [PWA Countdown Companion](https://github.com/Oreshe/waiting-for)
+*Офлайн-орієнтований мобільний веб-додаток (Progressive Web App) для зворотного відліку часу. Завдяки Service Worker додаток повністю зберігає всю свою медіа-базу в пам'яті телефону та працює 100% автономно (Offline-first), пропонуючи користувачу щоденний унікальний контент підтримки та особливі інтерактивні сценарії.*
+* **Стек:** HTML5, CSS3 (Glassmorphism), JavaScript (ES6+), Service Worker API, Cache Storage API.
+
+---
+
+## 📈 Прагнення та цілі
+Зараз я активно розвиваю свої навички та шукаю можливості для старту кар'єри (стажування або позиція Junior) на українському ринку в галузі **робототехніки, Embedded-розробки або системного програмування на C++**.
+
+## 📫 Як зі мною зв'язатися
+
+* **Telegram:** [@rn_arina]
