@@ -41,3 +41,4 @@
 ## 📫 Як зі мною зв'язатися
 
 * **Telegram:** [@rn_arina]
+* **LinkedIn:** [www.linkedin.com/in/арина-солдатенко-054a62228]
